@@ -1,4 +1,4 @@
-### Hi there 👋, Adib Rafi
+### Adib Rafi
 #### Computer Science Students
 I'm Adib from Malaysia, and I am a computer science student from Multimedia University. I really enjoy learning frameworks like Laravel, and Flutter. I also enjoy learning new languages in general
 
